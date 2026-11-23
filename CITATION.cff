@@ -1,14 +1,16 @@
 cff-version: 1.2.0
-message: "If you use ActinoScope in research, cite the software and the exact version used."
+message: "If you use ActinoScope in research, please cite the software and the exact version used."
 type: software
 title: "ActinoScope: From bacterial genomes to enzymes and natural products"
 authors:
   - given-names: "Imene"
     family-names: "Maallem"
+    affiliation: "Floret Center for Advanced Genomics and Bioinformatics Research, Nigeria"
 abstract: >-
   A local-first bioinformatics research workspace for bacterial genome analysis,
-  biosynthetic gene-cluster prediction, enzyme evidence exploration, and
+  biosynthetic gene cluster prediction, enzyme evidence exploration, and
   candidate natural product pathways.
 url: "https://github.com/imy096/ActinoScope"
-# No DOI is assigned yet. Insert the Zenodo version DOI only after publication.
-# No institutional affiliation is claimed until confirmed by the author.
+# DOI and release version will be added only when an approved release is published.
+# Affiliation identifies the author's stated research association; it does not
+# establish institutional copyright or a formal institutional software endorsement.
