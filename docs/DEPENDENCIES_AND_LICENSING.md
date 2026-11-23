@@ -26,7 +26,7 @@ These scientific resources are typically installed separately by users or provis
 
 ## ActinoScope licensing
 
-The developer identifies **Imene Maallem** as author and FLORET Center as a **research affiliation**, not necessarily owner. The desired license for ActinoScope has **not been selected** in this repository. The absence of a public `LICENSE` file is deliberate until the maintainer selects an appropriate license and verifies redistribution rights. Do not describe the software as open source in the meantime. Public documentation does not imply permission to redistribute the proprietary or unpublished Python implementation.
+The developer identifies **Imene Maallem** as author and FLORET Center as a **research affiliation**, not necessarily owner. The developer selected **free non-commercial research and education use with private development source**. The proposed proprietary terms are now documented in [ActinoScope Research Use License](../ACTINOSCOPE_RESEARCH_USE_LICENSE.md). They are **not** an open-source license. Those terms apply only to software packages officially distributed under them. The existing private candidate ZIP has not been verified to include this license and is **not** thereby approved for public release. Do not describe the software as open source. Public documentation does not imply permission to redistribute the proprietary or unpublished Python implementation.
 
 If distributing only a binary installation kit, remember that Python wheels can contain readable source; a private GitHub repository alone is not a source-code protection mechanism.
 
