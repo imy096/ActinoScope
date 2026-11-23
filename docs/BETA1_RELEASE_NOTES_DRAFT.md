@@ -47,7 +47,7 @@ Full details: [Release readiness](RELEASE_READINESS.md).
 
 ## Publication tasks remaining
 
-Before releasing a public installer, finalize the release acceptance evidence, external dependency/terms audit, ActinoScope license, exact distribution instructions, approved ZIP checksum, final software version/tag and maintainer-provided checksums. Publish the artifact through GitHub Releases **only** after these conditions are appropriately met.
+Before releasing a public installer, finalize release-critical acceptance evidence, third-party dependency and license auditing, exact installation instructions, final version/tag, and the full downloadable ZIP's checksum. A **proprietary, free-for-non-commercial-research license policy** has been documented at [ActinoScope Research Use License](../ACTINOSCOPE_RESEARCH_USE_LICENSE.md), but the current private candidate ZIP has **not** been verified to include it. Its wheel may contain **readable Python source files**, despite the private source GitHub repository. Publish a carefully qualified experimental pre-release **only** after accepting these facts and addressing the outstanding release checks.
 
 ## Credits and citation
 
