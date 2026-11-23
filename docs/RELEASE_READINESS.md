@@ -49,7 +49,7 @@ An additional four-test CSS check initially produced 2 passed, 2 failed after in
 1. **Scientific acceptance:** Execute and inspect at least one legitimate bacterial genome through the claimed core workflow with appropriate tools, versions, complete databases, and resources; record outputs, integrity, failures and limitations.
 2. **Test disposition:** Classify the 37 failures and resolve release-critical issues, explicitly retaining test exceptions and remaining known limitations.
 3. **Installation acceptance:** Test a clean second Windows system or clearly disclose the unverified portability limitations if issuing a constrained preview.
-4. **Dependency and distribution audit:** Review third-party binaries, licenses, database terms, installer security, and a legally appropriate ActinoScope license.
+4. **Dependency and distribution audit:** A [proprietary research-use license](../ACTINOSCOPE_RESEARCH_USE_LICENSE.md) has been documented; ensure the **downloadable package includes that license**, review third-party wheels/databases and their notices, and accept that a shipped Python wheel may reveal readable source. Review installer security and version-specific terms.
 5. **Release packaging:** Prepare an appropriately named distribution artifact with complete instructions, build provenance and independent checksums. Avoid publishing a private test archive unchanged when its metadata says it is not publicly approved.
 
 ## Scientific capacity warning
