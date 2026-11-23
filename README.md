@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/actinoscope-botanical-emblem.png" alt="ActinoScope botanical DNA and actinomycete emblem" width="380"></p>
+
 # ActinoScope
 
 **From bacterial genomes to enzymes and natural products**
