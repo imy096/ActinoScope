@@ -18,7 +18,13 @@ ActinoScope is a **local-first research workspace** for organizing bacterial gen
 
 These results demonstrate partial functional readiness, **not** general scientific validity, support for every optional tool, or release approval.
 
-## Documentation
+## For researchers: start here
+
+- **[How to get, install, and use ActinoScope](docs/HOW_USERS_CAN_USE_ACTINOSCOPE.md)** — current availability, private-test setup, first analysis, and troubleshooting.
+- **[Important warnings and scientific limitations](docs/IMPORTANT_WARNINGS.md)** — accuracy, privacy, hardware, licensing, and research interpretation.
+- **[What are GitHub Releases?](docs/GITHUB_RELEASES_EXPLAINED.md)** — exactly how a future software download will work and why “Source code (zip)” is not an installer.
+
+## Additional documentation
 
 - [Windows installation requirements and private-test procedure](docs/INSTALL_WINDOWS.md)
 - [Quick start and checked workflows](docs/QUICKSTART.md)
