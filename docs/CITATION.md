@@ -1,15 +1,17 @@
 # How to cite ActinoScope
 
-**The official citation and DOI are being prepared. No DOI has yet been assigned or published.**
+**Software author:** Imene Maallem.
 
-For the eventual public software release, the citation should identify:
-- The confirmed legal software author(s) or research team.
-- *ActinoScope: From bacterial genomes to enzymes and natural products*.
-- The exact release version used.
-- The publication year and its real, version-specific Zenodo DOI.
+**Release status:** Beta 1 is being tested; no official public software release or DOI has yet been published.
 
-We will publish a verified `CITATION.cff` once authorship and the release metadata are approved; GitHub will then offer a **Cite this repository** action.
+The current citation metadata is defined in [CITATION.cff](../CITATION.cff). When an approved release is deposited at Zenodo, we will add its actual version-specific DOI and version number.
 
-When reporting scientific results, also cite the specific versions of the underlying scientific tools and reference databases actually used (for example Bakta and antiSMASH) and distinguish predictions from experimentally validated findings.
+A future complete citation will include:
 
-Please do not invent a DOI or cite an unreleased development build as a final peer-reviewed software publication.
+> Maallem, I. (release year). *ActinoScope: From bacterial genomes to enzymes and natural products* (version). [Computer software]. Zenodo. DOI to be assigned.
+
+The title of any associated research organization and its relationship to the author are still being confirmed. This repository does not claim affiliation with any similarly named institution.
+
+If ActinoScope contributes to your scientific publication, cite the exact version used and also cite the underlying scientific tools and reference databases (such as Bakta and antiSMASH) applicable to your workflow.
+
+Computational predictions are not experimental confirmation.
