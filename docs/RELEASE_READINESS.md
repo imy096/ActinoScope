@@ -40,7 +40,7 @@ The broader Windows pytest run produced:
 
 **256 passed, 37 failed, 1 skipped** (294 total).
 
-The failed modules include prior Dev20–Dev22 installation-script tests, RC5–RC7 UI-specific expectations, Unix/bash path assumptions under Windows, a Windows default text-encoding issue, external BiG-SCAPE test-command portability, and a historical RC7.7 manifest mismatch. The precise release relevance of each must be assessed; some failures might represent genuine implementation or portability defects. Do not mark them all irrelevant without review.
+The failed modules include prior Dev20–Dev22 installation-script tests, RC5–RC7 UI-specific expectations, Unix/bash path assumptions under Windows, a Windows default text-encoding issue, external BiG-SCAPE test-command portability, and a historical RC7.7 manifest mismatch. A module-by-module provisional classification is recorded in [Beta 1 test failure triage](BETA1_TEST_FAILURE_TRIAGE.md). The precise release relevance of each must be assessed; some failures might represent genuine implementation or portability defects. Do not mark them all irrelevant without review.
 
 An additional four-test CSS check initially produced 2 passed, 2 failed after installing `tinycss2`. The remaining failures require layout strings from older RC7.3/RC7.4 versions; a separate current-CSS structural check passed 5/5. Neither result alone establishes current UI usability or complete compliance.
 
